@@ -2,6 +2,10 @@
 
 A cinematic React weather dashboard that turns any location into a live atmospheric scene. Search for a city, region, or landmark and the app pulls real weather data from Open-Meteo with no API key required.
 
+## Live Demo
+
+View S-Weather here -> https://s-weather-two.vercel.app
+
 ## Highlights
 
 - Real location search and weather data via Open-Meteo Geocoding and Forecast APIs
